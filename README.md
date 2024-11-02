@@ -1,3 +1,3 @@
 # My-First-Web-Page
 <br>
-Author - Aditya
+Author - Aditya Negi
